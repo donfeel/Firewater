@@ -1,0 +1,35 @@
+﻿body {
+    padding:0px;
+    background-color:#efefef;
+    font-family:Andalus;
+}
+
+.layout_main {
+    margin:0 auto;
+    width:1000px;
+}
+#printContent {
+    border:1px solid #808080; 
+    width:960px;height:700px;
+    margin:20px 0px;
+    background:url("images/template_sf.png");
+}
+
+input {
+    background-color:transparent;
+}
+.wrapper_shiperInfo {
+    margin:140px 0 0 70px;
+}
+.ca_no {
+    width:25px;
+    height:30px;
+
+    border-width:1px;
+    border-style:dotted;
+    padding:0;
+    outline:none;
+    
+    -webkit-appearance:none;
+}
+

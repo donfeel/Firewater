@@ -1,0 +1,15 @@
+﻿body {
+    padding:0px;
+    background-color:#efefef;
+    font-family:Andalus;
+}
+
+.layout_main {
+    margin:0 auto;
+    width:800px;
+}
+#printContent {
+    border:1px solid #808080; 
+    width:600px;height:400px;
+    margin:20px 0px;
+}

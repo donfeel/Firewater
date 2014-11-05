@@ -1,0 +1,5 @@
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Client\bin\Firewater.Client.dll
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Client\bin\Firewater.Client.pdb
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Client\obj\Debug\Firewater.Client.csprojResolveAssemblyReference.cache
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Client\obj\Debug\Firewater.Client.dll
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Client\obj\Debug\Firewater.Client.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Viagra\bin\Debug\Firewater.Viagra.dll
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Viagra\bin\Debug\Firewater.Viagra.pdb
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Viagra\obj\Debug\Firewater.Viagra.dll
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Viagra\obj\Debug\Firewater.Viagra.pdb
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Viagra\obj\Debug\Firewater.Viagra.csprojResolveAssemblyReference.cache

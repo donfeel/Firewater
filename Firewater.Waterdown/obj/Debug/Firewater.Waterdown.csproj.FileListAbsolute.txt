@@ -1,0 +1,13 @@
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\bin\Debug\Firewater.Waterdown.exe.config
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\bin\Debug\Firewater.Waterdown.exe
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\bin\Debug\Firewater.Waterdown.pdb
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\Firewater.Waterdown.csprojResolveAssemblyReference.cache
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\MainWindow.baml
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\MainWindow.g.cs
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\App.g.cs
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\Firewater.Waterdown_MarkupCompile.cache
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\Firewater.Waterdown.g.resources
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\Firewater.Waterdown.Properties.Resources.resources
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\Firewater.Waterdown.csproj.GenerateResource.Cache
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\Firewater.Waterdown.exe
+C:\Users\Dhe\Documents\DevProjects\Firewater\Firewater\Firewater.Waterdown\obj\Debug\Firewater.Waterdown.pdb
